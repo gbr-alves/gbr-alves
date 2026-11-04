@@ -4,8 +4,8 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=800&height=40&lines=%3E+SEU_CURSO;%3E+Aprendendo+e+evoluindo+todo+dia" alt="Digitando..." />
 
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="assets/buttons/btn-linkedin.svg" height="30" alt="LinkedIn" /></a>
-  <a href="mailto:SEU_EMAIL"><img src="assets/buttons/btn-email.svg" height="30" alt="E-mail" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-alves-500300448/"><img src="assets/buttons/btn-linkedin.svg" height="30" alt="LinkedIn" /></a>
+  <a href="mailto:techgabriel.alves@gmail.com"><img src="assets/buttons/btn-email.svg" height="30" alt="E-mail" /></a>
   <img src="assets/buttons/btn-sp.svg" height="30" alt="Cidade" />
 </div>
 
