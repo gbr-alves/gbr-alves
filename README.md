@@ -26,8 +26,8 @@
 <div align="center">
   <img src="assets/sections/continue.svg" width="100%" alt="Continue? Insira uma oportunidade de estágio" />
 
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="assets/buttons/btn-linkedin.svg" height="30" alt="LinkedIn" /></a>
-  <a href="mailto:SEU_EMAIL"><img src="assets/buttons/btn-email.svg" height="30" alt="E-mail" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-alves-500300448/"><img src="assets/buttons/btn-linkedin.svg" height="30" alt="LinkedIn" /></a>
+  <a href="mailto:techgabriel.alves@gmail.com"><img src="assets/buttons/btn-email.svg" height="30" alt="E-mail" /></a>
 </div>
 
 <br/>
